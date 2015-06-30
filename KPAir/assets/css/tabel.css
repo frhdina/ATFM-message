@@ -1,0 +1,17 @@
+<style>
+		table {
+		    border: 2px solid black;
+		    padding: 3px;
+		}
+
+		th, td
+		{
+		    border : 1px solid black;
+		    padding: 4px;
+		}
+
+		table 
+		{
+		    border-spacing: 0px;
+		}
+		</style>
